@@ -31,6 +31,13 @@
 - This application used the Angular framework to create a GUI to interact with [Josh's Bakery API](https://github.com/Oneshot369/josh-s-Bakery/tree/main/src).
 - It supports all CRUD operations on our baked goods.
 - You are able to
-  - make an new account
+  - make a new account
   - login
   - add and remove items from your cart.
+
+## [Tetris on Pi](https://github.com/Oneshot369/Tetris-on-pi)
+
+- This project was done on a raspberry pi 4 using a sense-hat
+- you are able to play the classic Tetris game using the sense-hat joystick
+- coded entirely in python
+
