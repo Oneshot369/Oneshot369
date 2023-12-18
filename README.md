@@ -20,9 +20,17 @@
 ## [React Bakery](https://github.com/Oneshot369/react-bakery)
 
 - This uses the React framework to create a GUI to interact with [Josh's Bakery API](https://github.com/Oneshot369/josh-s-Bakery/tree/main/src).
-- It supports CRUD operations on a list of products.
+- It supports all CRUD operations on our baked goods.
 - You are able to:
   - login
   - add items to your cart
   - remove items from your cart
-- 
+
+## [Angular Bakery](https://github.com/Oneshot369/bakery-app)
+
+- This application used the Angular framework to create a GUI to interact with [Josh's Bakery API](https://github.com/Oneshot369/josh-s-Bakery/tree/main/src).
+- It supports all CRUD operations on our baked goods.
+- You are able to
+  - make an new account
+  - login
+  - add and remove items from your cart.
