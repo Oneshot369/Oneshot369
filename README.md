@@ -1,13 +1,28 @@
 
 # Joshua Peck
 
-## [Josh's Bakery API](https://github.com/Oneshot369/josh-s-Bakery/tree/main/src)
+## [Josh's Bakery API](https://github.com/Oneshot369/josh-s-Bakery)
 
 - The bakery API is a bakery company that is made up, that sells baked goods.
 - The purpose of this project is to make an API using mock data and have multiple other frontend projects consume it. 
-- This first project is the API that will be consumed by other applications I make in React and Angular
-- Uses the language Typescript and the express framework to make an API
-- The Database is a MySQL and is run on MAMP
-  - the port for the database is 3306
-  - the port for consuming the api is 5000
-- This is only run on localhost
+- This first project is the API that will be consumed by other applications.
+- Uses the language Typescript and the express framework to make an API.
+- The Database is a MySQL and is run on MAMP.
+  - the port for the database is 3306.
+  - the port for consuming the api is 5000.
+- There are three tables in the Database.
+  - Users
+  - Products
+  - Cart
+    - This holds the ID of the user and the product.
+
+
+## [React Bakery](https://github.com/Oneshot369/react-bakery)
+
+- This uses the React framework to create a GUI to interact with [Josh's Bakery API](https://github.com/Oneshot369/josh-s-Bakery/tree/main/src).
+- It supports CRUD operations on a list of products.
+- You are able to:
+  - login
+  - add items to your cart
+  - remove items from your cart
+- 
